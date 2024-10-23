@@ -1,4 +1,4 @@
-# Chủ đè : Crawl dữ liệu trên web nghe nhạc Zing mp3 để lấy thông tin về bảng xếp hạng các bài hát hot nhất trong tuần / tháng
+# Chủ đề : Crawl dữ liệu trên web nghe nhạc Zing mp3 để lấy thông tin về bảng xếp hạng các bài hát hot nhất trong tuần / tháng
 # Thành viên nhóm - Mã sinh viên : Trương Vĩnh Tiến - B21DCCN710
 # Mô tả dự án : 
 ## Mục tiêu của dự án:
